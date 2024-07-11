@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1720691882,
+        "price": "10",
+        "category": "1720691859",
+        "quantity": 1111107,
+        "name": "Animal Farm",
+        "stock": 1,
+        "img": ""
+    },
+    {
+        "_id": 1720691882,
+        "price": "6",
+        "category": "1720691859",
+        "quantity": 123,
+        "name": "1989",
+        "stock": 15,
+        "img": ""
+    }
+]
